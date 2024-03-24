@@ -1,0 +1,9 @@
+Explanation of Meta Charset UTF-8
+
+The meta charset utf-8 declaration in HTML signifies the character encoding used in the document. UTF-8 is a character encoding capable of encoding all possible characters in Unicode. It is widely used as it supports multiple languages and special characters, making it suitable for internationalization.
+
+When we talk about the "meta charset utf-8" in HTML, it's like telling the computer how to understand the letters and symbols on a webpage. UTF-8 is a special way of organizing these letters and symbols so that the computer can show lots of different languages and unique characters, like emojis or accents from different countries. This is really helpful because it means that websites can work well for people all around the world, no matter what language they speak or what kind of special characters they use.
+
+When you create a website, you use different characters like letters, numbers, and symbols. These characters need to be encoded so that web browsers can understand them correctly. UTF-8 is a way of encoding these characters. It's like using a secret code to tell the browser how to read and display the text on your website.
+
+UTF-8 is special because it can handle all kinds of characters from different languages and even special symbols like emojis. This makes it really useful for websites that need to support different languages and symbols from around the world. So, when we use the "meta charset utf-8" declaration in our HTML code, we're basically telling the browser to use this special encoding system to understand and show the text on our website properly, no matter what language or symbols are used.
